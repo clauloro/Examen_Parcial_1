@@ -1,3 +1,10 @@
+# CLaudia López Rodríguez
+
+# Repositorio:
+usuario: clauloro
+link repositorio: https://github.com/clauloro/Examen_Parcial_1.git
+
+
 # Examen_Parcial_1
 
 Pregunta 1 (1 Punto):
